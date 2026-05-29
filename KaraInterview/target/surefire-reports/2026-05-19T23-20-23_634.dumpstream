@@ -1,0 +1,5 @@
+# Created at 2026-05-19T23:20:23.758
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Karat\KaraInterview\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
